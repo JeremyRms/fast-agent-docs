@@ -74,8 +74,9 @@ Prebuilt agents and examples implementing the patterns in Anthropic's [building 
 * `fast-agent go` - Start an interactive session...
 * `fast-agent go --url https://hf.co/mcp` - ...with a remote MCP.
 * `fast-agent setup` - Create Agent and Configuration files.
-* `uv run agent.py` - Run your first Agent
-* `fast-agent quickstart workflow` - Create Agent workflow examples
+* `fast-agent check` - Check your config is all good.
+* `uv run agent.py` - Run your first Agent.
+* `fast-agent quickstart workflow` - Create Agent workflow examples.
 </div>
 <div markdown>
 <!--[Welcome Image](welcome_small.png)-->
